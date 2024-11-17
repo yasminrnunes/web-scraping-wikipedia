@@ -1,0 +1,28 @@
+[
+  {
+    "id": "https://es.wikipedia.org/wiki/Categoría:Pabellones_de_voleibol_de_Brasil",
+    "parent_id": null,
+    "name": "Pabellones de voleibol de Brasil",
+    "languages": [
+      "https://en.wikipedia.org/wiki/Category:Volleyball_venues_in_Brazil",
+      "https://fr.wikipedia.org/wiki/Catégorie:Salle_de_volley-ball_au_Brésil",
+      "https://it.wikipedia.org/wiki/Categoria:Palazzetti_di_pallavolo_del_Brasile"
+    ],
+    "articles": [
+      {
+        "id": "https://es.wikipedia.org/wiki/Estadio_de_Copacabana",
+        "name": "Estadio de Copacabana",
+        "languages": [
+          "https://de.wikipedia.org/wiki/Arena_de_Vôlei_de_Praia",
+          "https://en.wikipedia.org/wiki/Copacabana_Stadium"
+        ],
+        "sections": [
+          {
+            "name": "Referencias",
+            "word_count": 6
+          }
+        ]
+      }
+    ]
+  }
+]
